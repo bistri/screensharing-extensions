@@ -33,7 +33,7 @@ You can test this extension on Bistri Conference Demo:
 
 * After having published your extension, go to your add-on page
 * Then right click on the "Add to Firefox" button and click "Copy link location" and paste it the URL in a text editor
-* Your extension id appears in bold in the following url https://addons.mozilla.org/firefox/downloads/latest/**592948**/addon-**592948**-latest.xpi?src=dp-btn-primary
+* Your extension id appears in bold in the following url: addons.mozilla.org/firefox/downloads/latest/**592948**/addon-**592948**-latest.xpi?src=dp-btn-primary
 
 =
 

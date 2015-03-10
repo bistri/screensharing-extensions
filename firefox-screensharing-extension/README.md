@@ -35,8 +35,6 @@ You can test this extension on Bistri Conference Demo:
 * Then right click on the "Add to Firefox" button and click "Copy link location" and paste it the URL in a text editor
 * Your extension id appears in bold in the following url: addons.mozilla.org/firefox/downloads/latest/**592948**/addon-**592948**-latest.xpi?src=dp-btn-primary
 
-=
-
 ## Note
 
 You can use this extension within any WebRTC applications, it is vendor independant except for modification about allowed domains in `bootstrap.js`

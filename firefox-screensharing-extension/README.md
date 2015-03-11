@@ -29,6 +29,10 @@ You can test this extension on Bistri Conference Demo:
 * zip the extension source files (and not the folder that contains files !)
 * rename your file extension.zip into extension.xpi
 
+## Pre-requisites
+
+* Your application must be in SSL.
+
 ## How to publish your extension
 
 * Follow Mozilla instructions to package the extension : https://addons.mozilla.org/en-US/developers

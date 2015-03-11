@@ -16,6 +16,11 @@ This extension is designed to allow the screen sharing feature for WebRTC applic
 
 * line 3-8: set all domains allowed to use this extension
 
+** Create the xpi file ( Firefox extension format ) **
+
+* zip the extension source files (and not the folder that contains files !)
+* rename your file extension.zip inro extension.xpi
+
 =
 
 You can test this extension on Bistri Conference Demo:

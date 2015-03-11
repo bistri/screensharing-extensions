@@ -19,7 +19,7 @@ This extension is designed to allow the screen sharing feature for WebRTC applic
 ** Create the xpi file ( Firefox extension format ) **
 
 * zip the extension source files (and not the folder that contains files !)
-* rename your file extension.zip inro extension.xpi
+* rename your file extension.zip into extension.xpi
 
 =
 

@@ -3,11 +3,6 @@ chrome-screensharing-extension
 
 This extension is designed to allow the screen sharing feature for applications developped with the Bistri JS Library
 
-**Clone this extension and open the `manifest.json`:**
-
-* line 2: modify the name attribute
-* line 15-20: set all domains allowed to use this extension
-
 =
 
 You can test this extension on Bistri Conference Demo:
@@ -15,6 +10,11 @@ You can test this extension on Bistri Conference Demo:
 * http://bistri.com/demo/conf
 
 =
+
+**Clone this extension and open the `manifest.json`:**
+
+* line 2: modify the name attribute
+* line 15-20: set all domains allowed to use this extension
 
 ## Pre-requisites
 

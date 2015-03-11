@@ -3,6 +3,14 @@ firefox-screensharing-extension
 
 This extension is designed to allow the screen sharing feature for WebRTC applications on given domains
 
+=
+
+You can test this extension on Bistri Conference Demo:
+
+* http://bistri.com/demo/conf
+
+=
+
 **Clone this extension, then:**
 
 ** Open `install.rdf`**
@@ -21,17 +29,8 @@ This extension is designed to allow the screen sharing feature for WebRTC applic
 * zip the extension source files (and not the folder that contains files !)
 * rename your file extension.zip into extension.xpi
 
-=
-
-You can test this extension on Bistri Conference Demo:
-
-* http://bistri.com/demo/conf
-
-=
-
 ## How to publish your extension
 
-* Modify `install.rdf`
 * Follow Mozilla instructions to package the extension : https://addons.mozilla.org/en-US/developers
 
 ## How to find my extension id

@@ -31,7 +31,7 @@ You can test this extension on Bistri Conference Demo:
 
 ## Pre-requisites
 
-* Your application must be in SSL.
+* Your application/website must be configured to use SSL.
 
 ## How to publish your extension
 

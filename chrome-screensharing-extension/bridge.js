@@ -21,6 +21,8 @@ port.onMessage.addListener( function( data ){
     window.postMessage( data, '*' );
 } );
 
-// insert tag into parent page
+// DO NOT MODIFY THE LINE BELOW
 node.id = 'bistri-screen-sharing-installed';
+
+// insert tag into parent page
 document.body.appendChild( node );
